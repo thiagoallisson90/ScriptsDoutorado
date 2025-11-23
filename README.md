@@ -2,7 +2,7 @@
 
 - Códigos a serem adicionados a pasta scratch do NS-3 para simulação.
 
-- JISA 2026:
+- JISA 2025:
 
   - Proposta: DR-SFA;
   - Collection:
