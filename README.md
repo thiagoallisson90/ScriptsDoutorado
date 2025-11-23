@@ -1,3 +1,31 @@
 # Pasta com Código de Simulação Separadas por Artigo
 
-- Código a serem adicionados a pasta scratch do NS-3 para simula
+- Código a serem adicionados a pasta scratch do NS-3 para simulação
+
+- SBRC26:
+  - Proposta: SFTPA;
+  - Aplica Path Loss e Shadowing;
+  - 200 a 1000 SMs;
+  - Métricas:
+    - Número de GWs;
+    - CAPEX;
+    - PDR;
+    - Delay;
+    - Consumo Energético;
+    - Eficiência Energética;
+    - Dist. de SF;
+    - Dist. de TP;
+    - HDex;
+    - Taxa de Perdas por Tipo: PLR-I, PLR-U, e outros.
+  - Contribuições:
+    - Melhora a eficiência energética;
+    - Reduz número de GWs.
+  - Status:
+    - [x] Sendo Escrito;
+    - [ ] Revisando para Submissão;
+    - [ ] Submetido;
+    - [ ] Aceito;
+    - [ ] Rejeitado;
+    - [ ] Adequando as Solicitações dos Revisores;
+    - [ ] Apresentado;
+    - [ ] Nos Proceedings.
