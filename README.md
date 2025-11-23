@@ -1,6 +1,43 @@
 # Pasta com Código de Simulação Separadas por Artigo
 
-- Código a serem adicionados a pasta scratch do NS-3 para simulação
+- Códigos a serem adicionados a pasta scratch do NS-3 para simulação.
+
+- JISA 2026:
+
+  - Proposta: DR-SFA;
+  - Collection:
+    - Special Issue on Dependable and Secure Computing 2024;
+    - Submission deadline: 15 April 2025;
+  - Título: Spreading Factor Allocation in LoRaWAN for Reliability and Delay-Constrained Smart Setering Applications;
+  - Qualis: A2;
+  - Testes Aplicam Path Loss e Shadowing;
+  - 200 a 1000 SMs;
+  - Métricas:
+    - Número de DAP/Gateways;
+    - CAPEX;
+    - Distância Média entre DAPs e SMs;
+    - PDR;
+    - Delay;
+    - SNR;
+    - Ocorrências de Interferência;
+    - Ocorrências de Baixa Sensibilidade;
+    - Dist. de SF;
+    - Dist. de TP.
+  - Contribuições:
+    - Garante Confiabilidade e Restrições de Atraso;
+    - Limita SF máximo a ser usado;
+    - Reduz número de DAPs, menor Custo.
+  - Status:
+    - [ ] Sendo Escrito;
+    - [ ] Revisando para Submissão;
+    - [ ] Submetido;
+    - [ ] Adequado as Solicitações dos Revisores - Rodada 1;
+    - [x] Aceito;
+    - [ ] Rejeitado;
+    - [ ] Apresentado;
+    - [x] Listado na Página do Periódico.
+  - DOI: https://doi.org/10.5753/jisa.2025.5932
+  - Página do Paper: https://journals-sol.sbc.org.br/index.php/jisa/article/view/5932
 
 - SBRC26:
   - Proposta: SFTPA;

@@ -1,0 +1,744 @@
+[308] Estatísticas de PDR: 
+DR-SFA
+200 SMs
+{'mean': 99.52, 'std_error': 0.01, 'ic': (99.5, 99.54), 'margin': 0.02}
+400 SMs
+{'mean': 99.63, 'std_error': 0.01, 'ic': (99.61, 99.65), 'margin': 0.02}
+600 SMs
+{'mean': 99.5, 'std_error': 0.01, 'ic': (99.48, 99.52), 'margin': 0.02}
+800 SMs
+{'mean': 99.2, 'std_error': 0.01, 'ic': (99.18, 99.22), 'margin': 0.02}
+1000 SMs
+{'mean': 99.49, 'std_error': 0.01, 'ic': (99.47, 99.51), 'margin': 0.02}
+I-SFA
+200 SMs
+{'mean': 99.4, 'std_error': 0.02, 'ic': (99.35, 99.45), 'margin': 0.05}
+400 SMs
+{'mean': 99.39, 'std_error': 0.01, 'ic': (99.37, 99.41), 'margin': 0.02}
+600 SMs
+{'mean': 99.44, 'std_error': 0.01, 'ic': (99.42, 99.46), 'margin': 0.02}
+800 SMs
+{'mean': 99.25, 'std_error': 0.01, 'ic': (99.23, 99.27), 'margin': 0.02}
+1000 SMs
+{'mean': 99.31, 'std_error': 0.01, 'ic': (99.29, 99.33), 'margin': 0.02}
+I-SFA+ADR
+200 SMs
+{'mean': 99.82, 'std_error': 0.06, 'ic': (99.68, 99.96), 'margin': 0.14}
+400 SMs
+{'mean': 99.69, 'std_error': 0.04, 'ic': (99.6, 99.78), 'margin': 0.09}
+600 SMs
+{'mean': 99.56, 'std_error': 0.04, 'ic': (99.47, 99.65), 'margin': 0.09}
+800 SMs
+{'mean': 99.5, 'std_error': 0.03, 'ic': (99.43, 99.57), 'margin': 0.07}
+1000 SMs
+{'mean': 99.45, 'std_error': 0.03, 'ic': (99.38, 99.52), 'margin': 0.07}
+CA-ADR
+200 SMs
+{'mean': 99.92, 'std_error': 0.01, 'ic': (99.9, 99.94), 'margin': 0.02}
+400 SMs
+{'mean': 99.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+600 SMs
+{'mean': 99.88, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 99.85, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 99.79, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+ADR
+200 SMs
+{'mean': 98.59, 'std_error': 0.01, 'ic': (98.57, 98.61), 'margin': 0.02}
+400 SMs
+{'mean': 98.51, 'std_error': 0.01, 'ic': (98.49, 98.53), 'margin': 0.02}
+600 SMs
+{'mean': 98.41, 'std_error': 0.01, 'ic': (98.39, 98.43), 'margin': 0.02}
+800 SMs
+{'mean': 98.26, 'std_error': 0.01, 'ic': (98.24, 98.28), 'margin': 0.02}
+1000 SMs
+{'mean': 97.94, 'std_error': 0.01, 'ic': (97.92, 97.96), 'margin': 0.02}
+####################################################################################################
+[331] Estatísticas de PDR para IMR: 
+DR-SFA
+200 SMs
+{'mean': 99.53, 'std_error': 0.01, 'ic': (99.51, 99.55), 'margin': 0.02}
+400 SMs
+{'mean': 99.63, 'std_error': 0.01, 'ic': (99.61, 99.65), 'margin': 0.02}
+600 SMs
+{'mean': 99.5, 'std_error': 0.01, 'ic': (99.48, 99.52), 'margin': 0.02}
+800 SMs
+{'mean': 99.2, 'std_error': 0.01, 'ic': (99.18, 99.22), 'margin': 0.02}
+1000 SMs
+{'mean': 99.49, 'std_error': 0.01, 'ic': (99.47, 99.51), 'margin': 0.02}
+I-SFA
+200 SMs
+{'mean': 99.4, 'std_error': 0.02, 'ic': (99.35, 99.45), 'margin': 0.05}
+400 SMs
+{'mean': 99.39, 'std_error': 0.01, 'ic': (99.37, 99.41), 'margin': 0.02}
+600 SMs
+{'mean': 99.45, 'std_error': 0.01, 'ic': (99.43, 99.47), 'margin': 0.02}
+800 SMs
+{'mean': 99.25, 'std_error': 0.01, 'ic': (99.23, 99.27), 'margin': 0.02}
+1000 SMs
+{'mean': 99.31, 'std_error': 0.01, 'ic': (99.29, 99.33), 'margin': 0.02}
+I-SFA+ADR
+200 SMs
+{'mean': 99.83, 'std_error': 0.06, 'ic': (99.69, 99.97), 'margin': 0.14}
+400 SMs
+{'mean': 99.68, 'std_error': 0.04, 'ic': (99.59, 99.77), 'margin': 0.09}
+600 SMs
+{'mean': 99.57, 'std_error': 0.04, 'ic': (99.48, 99.66), 'margin': 0.09}
+800 SMs
+{'mean': 99.5, 'std_error': 0.03, 'ic': (99.43, 99.57), 'margin': 0.07}
+1000 SMs
+{'mean': 99.46, 'std_error': 0.03, 'ic': (99.39, 99.53), 'margin': 0.07}
+CA-ADR
+200 SMs
+{'mean': 99.98, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+400 SMs
+{'mean': 99.96, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+600 SMs
+{'mean': 99.95, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 99.93, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 99.87, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+ADR
+200 SMs
+{'mean': 99.97, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+400 SMs
+{'mean': 99.92, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+600 SMs
+{'mean': 99.82, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 99.66, 'std_error': 0.01, 'ic': (99.64, 99.68), 'margin': 0.02}
+1000 SMs
+{'mean': 99.34, 'std_error': 0.01, 'ic': (99.32, 99.36), 'margin': 0.02}
+####################################################################################################
+[331] Estatísticas de PDR para PCC: 
+DR-SFA
+200 SMs
+{'mean': 99.44, 'std_error': 0.05, 'ic': (99.33, 99.55), 'margin': 0.11}
+400 SMs
+{'mean': 99.61, 'std_error': 0.03, 'ic': (99.54, 99.68), 'margin': 0.07}
+600 SMs
+{'mean': 99.49, 'std_error': 0.02, 'ic': (99.44, 99.54), 'margin': 0.05}
+800 SMs
+{'mean': 99.14, 'std_error': 0.02, 'ic': (99.09, 99.19), 'margin': 0.05}
+1000 SMs
+{'mean': 99.45, 'std_error': 0.02, 'ic': (99.4, 99.5), 'margin': 0.05}
+I-SFA
+200 SMs
+{'mean': 99.45, 'std_error': 0.05, 'ic': (99.34, 99.56), 'margin': 0.11}
+400 SMs
+{'mean': 99.35, 'std_error': 0.03, 'ic': (99.28, 99.42), 'margin': 0.07}
+600 SMs
+{'mean': 99.41, 'std_error': 0.03, 'ic': (99.34, 99.48), 'margin': 0.07}
+800 SMs
+{'mean': 99.23, 'std_error': 0.02, 'ic': (99.18, 99.28), 'margin': 0.05}
+1000 SMs
+{'mean': 99.27, 'std_error': 0.02, 'ic': (99.22, 99.32), 'margin': 0.05}
+I-SFA+ADR
+200 SMs
+{'mean': 99.75, 'std_error': 0.1, 'ic': (99.52, 99.98), 'margin': 0.23}
+400 SMs
+{'mean': 99.7, 'std_error': 0.07, 'ic': (99.54, 99.86), 'margin': 0.16}
+600 SMs
+{'mean': 99.5, 'std_error': 0.07, 'ic': (99.34, 99.66), 'margin': 0.16}
+800 SMs
+{'mean': 99.56, 'std_error': 0.03, 'ic': (99.49, 99.63), 'margin': 0.07}
+1000 SMs
+{'mean': 99.38, 'std_error': 0.06, 'ic': (99.24, 99.52), 'margin': 0.14}
+CA-ADR
+200 SMs
+{'mean': 99.34, 'std_error': 0.06, 'ic': (99.2, 99.48), 'margin': 0.14}
+400 SMs
+{'mean': 99.3, 'std_error': 0.04, 'ic': (99.21, 99.39), 'margin': 0.09}
+600 SMs
+{'mean': 99.18, 'std_error': 0.03, 'ic': (99.11, 99.25), 'margin': 0.07}
+800 SMs
+{'mean': 99.08, 'std_error': 0.02, 'ic': (99.03, 99.13), 'margin': 0.05}
+1000 SMs
+{'mean': 98.97, 'std_error': 0.03, 'ic': (98.9, 99.04), 'margin': 0.07}
+ADR
+200 SMs
+{'mean': 84.81, 'std_error': 0.1, 'ic': (84.58, 85.04), 'margin': 0.23}
+400 SMs
+{'mean': 84.7, 'std_error': 0.13, 'ic': (84.41, 84.99), 'margin': 0.29}
+600 SMs
+{'mean': 84.59, 'std_error': 0.1, 'ic': (84.36, 84.82), 'margin': 0.23}
+800 SMs
+{'mean': 84.44, 'std_error': 0.14, 'ic': (84.12, 84.76), 'margin': 0.32}
+1000 SMs
+{'mean': 84.14, 'std_error': 0.08, 'ic': (83.96, 84.32), 'margin': 0.18}
+####################################################################################################
+[415] Estatísticas de Delay: 
+DR-SFA
+200 SMs
+{'mean': 131.85, 'std_error': 0.27, 'ic': (131.24, 132.46), 'margin': 0.61}
+400 SMs
+{'mean': 158.55, 'std_error': 0.21, 'ic': (158.07, 159.03), 'margin': 0.48}
+600 SMs
+{'mean': 219.67, 'std_error': 1.91, 'ic': (215.35, 223.99), 'margin': 4.32}
+800 SMs
+{'mean': 191.59, 'std_error': 1.3, 'ic': (188.65, 194.53), 'margin': 2.94}
+1000 SMs
+{'mean': 198.27, 'std_error': 1.21, 'ic': (195.53, 201.01), 'margin': 2.74}
+I-SFA
+200 SMs
+{'mean': 117.76, 'std_error': 0.56, 'ic': (116.49, 119.03), 'margin': 1.27}
+400 SMs
+{'mean': 113.13, 'std_error': 0.07, 'ic': (112.97, 113.29), 'margin': 0.16}
+600 SMs
+{'mean': 112.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 112.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 112.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA+ADR
+200 SMs
+{'mean': 113.05, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+400 SMs
+{'mean': 113.05, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+600 SMs
+{'mean': 113.04, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 113.04, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 113.03, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+CA-ADR
+200 SMs
+{'mean': 185.35, 'std_error': 0.52, 'ic': (184.17, 186.53), 'margin': 1.18}
+400 SMs
+{'mean': 208.66, 'std_error': 0.18, 'ic': (208.25, 209.07), 'margin': 0.41}
+600 SMs
+{'mean': 193.0, 'std_error': 0.23, 'ic': (192.48, 193.52), 'margin': 0.52}
+800 SMs
+{'mean': 200.2, 'std_error': 0.23, 'ic': (199.68, 200.72), 'margin': 0.52}
+1000 SMs
+{'mean': 204.21, 'std_error': 0.21, 'ic': (203.73, 204.69), 'margin': 0.48}
+ADR
+200 SMs
+{'mean': 505.64, 'std_error': 0.93, 'ic': (503.54, 507.74), 'margin': 2.1}
+400 SMs
+{'mean': 505.65, 'std_error': 0.66, 'ic': (504.16, 507.14), 'margin': 1.49}
+600 SMs
+{'mean': 505.49, 'std_error': 0.47, 'ic': (504.43, 506.55), 'margin': 1.06}
+800 SMs
+{'mean': 507.09, 'std_error': 0.28, 'ic': (506.46, 507.72), 'margin': 0.63}
+1000 SMs
+{'mean': 508.76, 'std_error': 0.49, 'ic': (507.65, 509.87), 'margin': 1.11}
+####################################################################################################
+[471] Estatísticas de Delay para PCC: 
+DR-SFA
+200 SMs
+{'mean': 132.39, 'std_error': 0.75, 'ic': (130.69, 134.09), 'margin': 1.7}
+400 SMs
+{'mean': 158.55, 'std_error': 0.91, 'ic': (156.49, 160.61), 'margin': 2.06}
+600 SMs
+{'mean': 215.03, 'std_error': 1.32, 'ic': (212.04, 218.02), 'margin': 2.99}
+800 SMs
+{'mean': 185.7, 'std_error': 1.99, 'ic': (181.2, 190.2), 'margin': 4.5}
+1000 SMs
+{'mean': 189.51, 'std_error': 1.17, 'ic': (186.86, 192.16), 'margin': 2.65}
+I-SFA
+200 SMs
+{'mean': 117.79, 'std_error': 0.61, 'ic': (116.41, 119.17), 'margin': 1.38}
+400 SMs
+{'mean': 113.02, 'std_error': 0.06, 'ic': (112.88, 113.16), 'margin': 0.14}
+600 SMs
+{'mean': 112.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 112.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 112.9, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA+ADR
+200 SMs
+{'mean': 113.03, 'std_error': 0.01, 'ic': (113.01, 113.05), 'margin': 0.02}
+400 SMs
+{'mean': 113.03, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+600 SMs
+{'mean': 113.03, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 113.02, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 113.02, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+CA-ADR
+200 SMs
+{'mean': 160.94, 'std_error': 0.56, 'ic': (159.67, 162.21), 'margin': 1.27}
+400 SMs
+{'mean': 182.95, 'std_error': 0.42, 'ic': (182.0, 183.9), 'margin': 0.95}
+600 SMs
+{'mean': 165.55, 'std_error': 0.33, 'ic': (164.8, 166.3), 'margin': 0.75}
+800 SMs
+{'mean': 171.86, 'std_error': 0.22, 'ic': (171.36, 172.36), 'margin': 0.5}
+1000 SMs
+{'mean': 174.29, 'std_error': 0.29, 'ic': (173.63, 174.95), 'margin': 0.66}
+ADR
+200 SMs
+{'mean': 113.12, 'std_error': 0.14, 'ic': (112.8, 113.44), 'margin': 0.32}
+400 SMs
+{'mean': 112.97, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+600 SMs
+{'mean': 112.95, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+800 SMs
+{'mean': 112.95, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+1000 SMs
+{'mean': 112.95, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+####################################################################################################
+[494] Estatísticas de SNR: 
+DR-SFA
+200 SMs
+{'mean': -13.44, 'std_error': 0.07, 'ic': (-13.6, -13.28), 'margin': 0.16}
+400 SMs
+{'mean': -15.91, 'std_error': 0.07, 'ic': (-16.07, -15.75), 'margin': 0.16}
+600 SMs
+{'mean': -15.95, 'std_error': 0.05, 'ic': (-16.06, -15.84), 'margin': 0.11}
+800 SMs
+{'mean': -15.86, 'std_error': 0.03, 'ic': (-15.93, -15.79), 'margin': 0.07}
+1000 SMs
+{'mean': -16.98, 'std_error': 0.02, 'ic': (-17.03, -16.93), 'margin': 0.05}
+I-SFA
+200 SMs
+{'mean': -13.47, 'std_error': 0.08, 'ic': (-13.65, -13.29), 'margin': 0.18}
+400 SMs
+{'mean': -15.9, 'std_error': 0.07, 'ic': (-16.06, -15.74), 'margin': 0.16}
+600 SMs
+{'mean': -17.13, 'std_error': 0.04, 'ic': (-17.22, -17.04), 'margin': 0.09}
+800 SMs
+{'mean': -17.02, 'std_error': 0.05, 'ic': (-17.13, -16.91), 'margin': 0.11}
+1000 SMs
+{'mean': -17.84, 'std_error': 0.02, 'ic': (-17.89, -17.79), 'margin': 0.05}
+I-SFA+ADR
+200 SMs
+{'mean': -29.1, 'std_error': 0.1, 'ic': (-29.33, -28.87), 'margin': 0.23}
+400 SMs
+{'mean': -28.69, 'std_error': 0.05, 'ic': (-28.8, -28.58), 'margin': 0.11}
+600 SMs
+{'mean': -29.19, 'std_error': 0.04, 'ic': (-29.28, -29.1), 'margin': 0.09}
+800 SMs
+{'mean': -29.31, 'std_error': 0.04, 'ic': (-29.4, -29.22), 'margin': 0.09}
+1000 SMs
+{'mean': -29.2, 'std_error': 0.03, 'ic': (-29.27, -29.13), 'margin': 0.07}
+CA-ADR
+200 SMs
+{'mean': -20.54, 'std_error': 0.08, 'ic': (-20.72, -20.36), 'margin': 0.18}
+400 SMs
+{'mean': -20.51, 'std_error': 0.03, 'ic': (-20.58, -20.44), 'margin': 0.07}
+600 SMs
+{'mean': -21.18, 'std_error': 0.02, 'ic': (-21.23, -21.13), 'margin': 0.05}
+800 SMs
+{'mean': -21.43, 'std_error': 0.04, 'ic': (-21.52, -21.34), 'margin': 0.09}
+1000 SMs
+{'mean': -21.62, 'std_error': 0.04, 'ic': (-21.71, -21.53), 'margin': 0.09}
+ADR
+200 SMs
+{'mean': -31.88, 'std_error': 0.04, 'ic': (-31.97, -31.79), 'margin': 0.09}
+400 SMs
+{'mean': -31.97, 'std_error': 0.04, 'ic': (-32.06, -31.88), 'margin': 0.09}
+600 SMs
+{'mean': -32.05, 'std_error': 0.05, 'ic': (-32.16, -31.94), 'margin': 0.11}
+800 SMs
+{'mean': -31.98, 'std_error': 0.03, 'ic': (-32.05, -31.91), 'margin': 0.07}
+1000 SMs
+{'mean': -32.16, 'std_error': 0.02, 'ic': (-32.21, -32.11), 'margin': 0.05}
+####################################################################################################
+[541] Estatísticas de Interferência: 
+DR-SFA
+200 SMs
+{'mean': 139.3, 'std_error': 2.0, 'ic': (134.78, 143.82), 'margin': 4.52}
+400 SMs
+{'mean': 405.8, 'std_error': 5.39, 'ic': (393.61, 417.99), 'margin': 12.19}
+600 SMs
+{'mean': 897.1, 'std_error': 11.64, 'ic': (870.77, 923.43), 'margin': 26.33}
+800 SMs
+{'mean': 1595.17, 'std_error': 9.75, 'ic': (1573.11, 1617.23), 'margin': 22.06}
+1000 SMs
+{'mean': 2234.45, 'std_error': 15.9, 'ic': (2198.48, 2270.42), 'margin': 35.97}
+I-SFA
+200 SMs
+{'mean': 170.3, 'std_error': 5.03, 'ic': (158.92, 181.68), 'margin': 11.38}
+400 SMs
+{'mean': 543.1, 'std_error': 7.65, 'ic': (525.79, 560.41), 'margin': 17.31}
+600 SMs
+{'mean': 1077.65, 'std_error': 11.08, 'ic': (1052.59, 1102.71), 'margin': 25.06}
+800 SMs
+{'mean': 1935.4, 'std_error': 17.28, 'ic': (1896.31, 1974.49), 'margin': 39.09}
+1000 SMs
+{'mean': 3240.08, 'std_error': 21.55, 'ic': (3191.33, 3288.83), 'margin': 48.75}
+I-SFA+ADR
+200 SMs
+{'mean': 36.89, 'std_error': 0.85, 'ic': (34.97, 38.81), 'margin': 1.92}
+400 SMs
+{'mean': 154.54, 'std_error': 3.37, 'ic': (146.92, 162.16), 'margin': 7.62}
+600 SMs
+{'mean': 325.25, 'std_error': 2.86, 'ic': (318.78, 331.72), 'margin': 6.47}
+800 SMs
+{'mean': 571.71, 'std_error': 4.34, 'ic': (561.89, 581.53), 'margin': 9.82}
+1000 SMs
+{'mean': 901.44, 'std_error': 6.68, 'ic': (886.33, 916.55), 'margin': 15.11}
+CA-ADR
+200 SMs
+{'mean': 235.81, 'std_error': 3.7, 'ic': (227.44, 244.18), 'margin': 8.37}
+400 SMs
+{'mean': 937.76, 'std_error': 9.59, 'ic': (916.07, 959.45), 'margin': 21.69}
+600 SMs
+{'mean': 1766.08, 'std_error': 12.59, 'ic': (1737.6, 1794.56), 'margin': 28.48}
+800 SMs
+{'mean': 3003.93, 'std_error': 12.24, 'ic': (2976.24, 3031.62), 'margin': 27.69}
+1000 SMs
+{'mean': 4507.68, 'std_error': 16.84, 'ic': (4469.59, 4545.77), 'margin': 38.09}
+ADR
+200 SMs
+{'mean': 908.62, 'std_error': 11.61, 'ic': (882.36, 934.88), 'margin': 26.26}
+400 SMs
+{'mean': 3189.76, 'std_error': 16.28, 'ic': (3152.93, 3226.59), 'margin': 36.83}
+600 SMs
+{'mean': 6253.98, 'std_error': 10.87, 'ic': (6229.39, 6278.57), 'margin': 24.59}
+800 SMs
+{'mean': 9842.78, 'std_error': 18.99, 'ic': (9799.82, 9885.74), 'margin': 42.96}
+1000 SMs
+{'mean': 13827.31, 'std_error': 18.97, 'ic': (13784.4, 13870.22), 'margin': 42.91}
+####################################################################################################
+[597] Estatísticas de Under Sensitivity: 
+DR-SFA
+200 SMs
+{'mean': 6950.0, 'std_error': 111.0, 'ic': (6698.9, 7201.1), 'margin': 251.1}
+400 SMs
+{'mean': 17543.63, 'std_error': 63.98, 'ic': (17398.9, 17688.36), 'margin': 144.73}
+600 SMs
+{'mean': 23773.43, 'std_error': 192.98, 'ic': (23336.88, 24209.98), 'margin': 436.55}
+800 SMs
+{'mean': 33733.03, 'std_error': 174.16, 'ic': (33339.05, 34127.01), 'margin': 393.98}
+1000 SMs
+{'mean': 45487.15, 'std_error': 195.18, 'ic': (45045.62, 45928.68), 'margin': 441.53}
+I-SFA
+200 SMs
+{'mean': 7426.55, 'std_error': 112.17, 'ic': (7172.8, 7680.3), 'margin': 253.75}
+400 SMs
+{'mean': 20361.53, 'std_error': 121.28, 'ic': (20087.18, 20635.88), 'margin': 274.35}
+600 SMs
+{'mean': 34064.98, 'std_error': 125.71, 'ic': (33780.6, 34349.36), 'margin': 284.38}
+800 SMs
+{'mean': 44655.95, 'std_error': 153.87, 'ic': (44307.87, 45004.03), 'margin': 348.08}
+1000 SMs
+{'mean': 54038.22, 'std_error': 198.56, 'ic': (53589.05, 54487.39), 'margin': 449.17}
+I-SFA+ADR
+200 SMs
+{'mean': 19715.85, 'std_error': 62.28, 'ic': (19574.96, 19856.74), 'margin': 140.89}
+400 SMs
+{'mean': 39149.72, 'std_error': 87.96, 'ic': (38950.74, 39348.7), 'margin': 198.98}
+600 SMs
+{'mean': 59630.83, 'std_error': 157.31, 'ic': (59274.97, 59986.69), 'margin': 355.86}
+800 SMs
+{'mean': 79138.19, 'std_error': 144.89, 'ic': (78810.43, 79465.95), 'margin': 327.76}
+1000 SMs
+{'mean': 98802.98, 'std_error': 147.7, 'ic': (98468.86, 99137.1), 'margin': 334.12}
+CA-ADR
+200 SMs
+{'mean': 13205.25, 'std_error': 74.65, 'ic': (13036.38, 13374.12), 'margin': 168.87}
+400 SMs
+{'mean': 24370.18, 'std_error': 88.57, 'ic': (24169.82, 24570.54), 'margin': 200.36}
+600 SMs
+{'mean': 38256.63, 'std_error': 128.87, 'ic': (37965.11, 38548.15), 'margin': 291.52}
+800 SMs
+{'mean': 51496.12, 'std_error': 182.85, 'ic': (51082.48, 51909.76), 'margin': 413.64}
+1000 SMs
+{'mean': 64483.44, 'std_error': 232.25, 'ic': (63958.05, 65008.83), 'margin': 525.39}
+ADR
+200 SMs
+{'mean': 18085.35, 'std_error': 50.1, 'ic': (17972.02, 18198.68), 'margin': 113.33}
+400 SMs
+{'mean': 36267.87, 'std_error': 84.21, 'ic': (36077.37, 36458.37), 'margin': 190.5}
+600 SMs
+{'mean': 54588.26, 'std_error': 80.3, 'ic': (54406.61, 54769.91), 'margin': 181.65}
+800 SMs
+{'mean': 72362.69, 'std_error': 80.31, 'ic': (72181.02, 72544.36), 'margin': 181.67}
+1000 SMs
+{'mean': 90434.0, 'std_error': 130.17, 'ic': (90139.54, 90728.46), 'margin': 294.46}
+####################################################################################################
+[683] Estatísticas para SF no Cenário com 600 SMs: 
+DR-SFA
+SF7
+{'mean': 55.9, 'std_error': 0.16, 'ic': (55.54, 56.26), 'margin': 0.36}
+SF8
+{'mean': 22.5, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 13.5, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 7.5, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.6, 'std_error': 0.16, 'ic': (0.24, 0.96), 'margin': 0.36}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA
+SF7
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA+ADR
+SF7
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+CA-ADR
+SF7
+{'mean': 51.65, 'std_error': 0.06, 'ic': (51.51, 51.79), 'margin': 0.14}
+SF8
+{'mean': 28.38, 'std_error': 0.07, 'ic': (28.22, 28.54), 'margin': 0.16}
+SF9
+{'mean': 6.98, 'std_error': 0.08, 'ic': (6.8, 7.16), 'margin': 0.18}
+SF10
+{'mean': 7.57, 'std_error': 0.04, 'ic': (7.48, 7.66), 'margin': 0.09}
+SF11
+{'mean': 3.65, 'std_error': 0.02, 'ic': (3.6, 3.7), 'margin': 0.05}
+SF12
+{'mean': 1.77, 'std_error': 0.06, 'ic': (1.63, 1.91), 'margin': 0.14}
+ADR
+SF7
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+####################################################################################################
+[692] Estatísticas para TP no Cenário com 600 SMs: 
+DR-SFA
+TP2
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP4
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP6
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA
+TP2
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP4
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP6
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA+ADR
+TP2
+{'mean': 82.67, 'std_error': 0.34, 'ic': (81.9, 83.44), 'margin': 0.77}
+TP4
+{'mean': 9.0, 'std_error': 0.44, 'ic': (8.0, 10.0), 'margin': 1.0}
+TP6
+{'mean': 4.9, 'std_error': 0.21, 'ic': (4.42, 5.38), 'margin': 0.48}
+TP8
+{'mean': 1.95, 'std_error': 0.16, 'ic': (1.59, 2.31), 'margin': 0.36}
+TP10
+{'mean': 0.4, 'std_error': 0.07, 'ic': (0.24, 0.56), 'margin': 0.16}
+TP12
+{'mean': 0.2, 'std_error': 0.05, 'ic': (0.09, 0.31), 'margin': 0.11}
+TP14
+{'mean': 0.88, 'std_error': 0.14, 'ic': (0.56, 1.2), 'margin': 0.32}
+CA-ADR
+TP2
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP4
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP6
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+ADR
+TP2
+{'mean': 98.72, 'std_error': 0.16, 'ic': (98.36, 99.08), 'margin': 0.36}
+TP4
+{'mean': 1.12, 'std_error': 0.14, 'ic': (0.8, 1.44), 'margin': 0.32}
+TP6
+{'mean': 0.08, 'std_error': 0.04, 'ic': (-0.01, 0.17), 'margin': 0.09}
+TP8
+{'mean': 0.05, 'std_error': 0.03, 'ic': (-0.02, 0.12), 'margin': 0.07}
+TP10
+{'mean': 0.03, 'std_error': 0.02, 'ic': (-0.02, 0.08), 'margin': 0.05}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+####################################################################################################
+[740] Estatísticas para SF no Cenário com 1000 SMs: 
+DR-SFA
+SF7
+{'mean': 64.7, 'std_error': 0.1, 'ic': (64.47, 64.93), 'margin': 0.23}
+SF8
+{'mean': 18.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 10.8, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 6.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.5, 'std_error': 0.1, 'ic': (0.27, 0.73), 'margin': 0.23}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA
+SF7
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA+ADR
+SF7
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+CA-ADR
+SF7
+{'mean': 49.5, 'std_error': 0.05, 'ic': (49.39, 49.61), 'margin': 0.11}
+SF8
+{'mean': 27.32, 'std_error': 0.06, 'ic': (27.18, 27.46), 'margin': 0.14}
+SF9
+{'mean': 10.61, 'std_error': 0.11, 'ic': (10.36, 10.86), 'margin': 0.25}
+SF10
+{'mean': 7.39, 'std_error': 0.05, 'ic': (7.28, 7.5), 'margin': 0.11}
+SF11
+{'mean': 3.51, 'std_error': 0.03, 'ic': (3.44, 3.58), 'margin': 0.07}
+SF12
+{'mean': 1.67, 'std_error': 0.06, 'ic': (1.53, 1.81), 'margin': 0.14}
+ADR
+SF7
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF9
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF11
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+SF12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+####################################################################################################
+[749] Estatísticas para TP no Cenário com 1000 SMs: 
+DR-SFA
+TP2
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP4
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP6
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA
+TP2
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP4
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP6
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+I-SFA+ADR
+TP2
+{'mean': 81.9, 'std_error': 0.4, 'ic': (81.0, 82.8), 'margin': 0.9}
+TP4
+{'mean': 10.0, 'std_error': 0.43, 'ic': (9.03, 10.97), 'margin': 0.97}
+TP6
+{'mean': 5.18, 'std_error': 0.16, 'ic': (4.82, 5.54), 'margin': 0.36}
+TP8
+{'mean': 1.75, 'std_error': 0.09, 'ic': (1.55, 1.95), 'margin': 0.2}
+TP10
+{'mean': 0.43, 'std_error': 0.06, 'ic': (0.29, 0.57), 'margin': 0.14}
+TP12
+{'mean': 0.2, 'std_error': 0.04, 'ic': (0.11, 0.29), 'margin': 0.09}
+TP14
+{'mean': 0.54, 'std_error': 0.04, 'ic': (0.45, 0.63), 'margin': 0.09}
+CA-ADR
+TP2
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP4
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP6
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP8
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 100.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+ADR
+TP2
+{'mean': 99.25, 'std_error': 0.07, 'ic': (99.09, 99.41), 'margin': 0.16}
+TP4
+{'mean': 0.7, 'std_error': 0.07, 'ic': (0.54, 0.86), 'margin': 0.16}
+TP6
+{'mean': 0.04, 'std_error': 0.02, 'ic': (-0.01, 0.09), 'margin': 0.05}
+TP8
+{'mean': 0.01, 'std_error': 0.01, 'ic': (-0.01, 0.03), 'margin': 0.02}
+TP10
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP12
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+TP14
+{'mean': 0.0, 'std_error': 0.0, 'ic': (nan, nan), 'margin': nan}
+####################################################################################################
